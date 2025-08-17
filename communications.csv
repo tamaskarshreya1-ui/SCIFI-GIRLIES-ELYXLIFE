@@ -1,0 +1,91 @@
+member_id,date,sender,message,category
+1,2025-09-01,Rohan,"Ruby, I've just signed up with Elyx after my annual physical showed elevated LDL cholesterol (145 mg/dL). My father had a heart attack at 52, so I'm motivated to make changes but need proper guidance. Attaching my latest bloodwork.",onboarding
+1,2025-09-01,Ruby (Elyx Concierge),"Welcome to Elyx, Rohan! Thank you for sharing your bloodwork. We've flagged this as Priority 1 for Dr. Warren to review. Before we proceed, could you share more about your current exercise routine and any supplements you're taking? This will help us create a comprehensive baseline.",onboarding
+1,2025-09-01,Rohan,"I run 2-3 times per week (about 5km each) when travel permits. No regular strength training. Supplements - basic multivitamin, occasional fish oil, and melatonin for sleep when jetlagged. My Garmin shows poor sleep scores most nights.",onboarding
+1,2025-09-01,Ruby (Elyx Concierge),"Thank you for those details. We're creating your member profile now. The first step is our comprehensive diagnostic testing. I'm scheduling: 1. Advanced lipid panel (including ApoB) 2. DEXA scan for body composition 3. VO2 max test 4. Continuous glucose monitor (CGM) for 14 days. Would you prefer to do these at our partner clinic in Orchard Road or have a mobile team come to your office/home?",onboarding
+1,2025-09-01,Rohan,"Clinic is fine. Need to be done within next 2 weeks before my Asia trip.",onboarding
+1,2025-09-01,Ruby (Elyx Concierge),"Understood. I've secured appointments: - Sep 3: DEXA & VO2 max at 8 AM - Sep 5: Blood draw & CGM application at 7 AM (12hr fasting required) - Sep 19: Follow-up with Dr. Warren to review all results. Calendar invites have been sent to you and Suzane.",onboarding
+1,2025-09-01,Rohan,"Confirmed. Suzane will arrange transport.",onboarding
+1,2025-09-02,Rohan,"Quick question - should I stop any supplements before the blood tests?",onboarding
+1,2025-09-02,Ruby (Elyx Concierge),"Good question! Please continue your multivitamin but hold the fish oil for 72 hours prior as it can temporarily affect lipid measurements. Full prep instructions are in your testing calendar invites.",onboarding
+1,2025-09-03,Rohan,"Done with DEXA and VO2 max. The technician mentioned my body fat is 28% - higher than I expected. VO2 max was 32 ml/kg/min - 'average' for my age but I want to be better.",feedback
+1,2025-09-03,Advik (Elyx Performance),"Rohan, Advik here. Those numbers give us a great baseline to improve upon. Your VO2 max is actually a strength given your current training routine - we can definitely optimize this. The DEXA shows your lean mass is lower than ideal, which we'll address through strength training. Looking forward to analyzing your full data set.",feedback
+1,2025-09-05,Rohan,"Blood draw and CGM applied. The nurse was excellent. When will I see the glucose data?",feedback
+1,2025-09-05,Ruby (Elyx Concierge),"The CGM data will start populating in your Elyx app within 2 hours. For the first 3 days, eat normally so we can establish your baseline responses. After that, Carla will begin suggesting nutritional experiments.",feedback
+1,2025-09-07,Rohan,"This CGM is eye-opening! My glucose spiked to 180 after breakfast today (avocado toast). Isn't that supposed to be healthy?",feedback
+1,2025-09-07,Carla (Elyx Nutrition),"Good observation, Rohan. Even 'healthy' carbs can cause spikes depending on your individual metabolism. Tomorrow let's try an experiment: same toast but add 2 eggs and some smoked salmon. The protein/fat should blunt the spike. This is how we'll personalize your nutrition.",feedback
+1,2025-09-10,Rohan,"Attaching my food log from the business dinner tonight. Had to make some compromises due to client preferences.",feedback
+1,2025-09-10,Carla (Elyx Nutrition),"Thanks for logging! I see the fried items and desserts caused a prolonged elevation (CGM shows 3hrs >140). For future client dinners, may I suggest: 1. Start with a salad with olive oil 2. Choose grilled proteins 3. Limit alcohol to 1 drink. These small changes can significantly reduce the metabolic impact while maintaining social flexibility.",feedback
+1,2025-09-15,Rohan,"My back is killing me after that 14hr flight to Tokyo. Can't even stand straight.",feedback
+1,2025-09-15,Rachel (Elyx PT),"Sorry to hear that, Rohan. This is common with prolonged sitting. Try this quick fix: 1. Kneel on hotel bed in 'child's pose' for 2 minutes 2. Then do 10 'cat-cow' stretches. I've sent a demo video to your app. If no improvement in 30 min, we can schedule a video consult.",feedback
+1,2025-09-15,Rohan,"The stretches helped about 50%. Still some discomfort.",feedback
+1,2025-09-15,Rachel (Elyx PT),"Good progress. For tonight: 1. Hot shower focusing on lower back 2. Sleep with pillow between knees 3. Avoid sitting for >30min at a time tomorrow. We'll address this structurally in your upcoming movement assessment.",feedback
+1,2025-09-19,Dr. Warren (Elyx Medical),"Rohan, I've completed my analysis of your diagnostics. The key findings: 1. ApoB is elevated at 110 mg/dL - our primary focus 2. Mild sleep apnea (AHI 8.2) likely contributing to poor sleep 3. Low Vitamin D (32 nmol/L) despite Singapore sun. Full report is in your portal. Let's discuss interventions in our call tomorrow.",feedback
+1,2025-09-20,Rohan,"After reviewing with Dr. Warren, I'm concerned about the sleep apnea. Should I get a CPAP?",feedback
+1,2025-09-20,Dr. Warren (Elyx Medical),"Given your mild case, let's first try positional therapy and mouth taping while we wait for your sleep study. Many clients see significant improvement with these conservative measures. Ruby is sending you our 'Sleep Optimization Kit' today.",feedback
+1,2025-09-22,Rohan,"First night with mouth tape - slept through until 5AM for the first time in years! Garmin shows HRV improved from 28 to 42.",feedback
+1,2025-09-22,Advik (Elyx Performance),"Fantastic result! This single intervention may improve all your health markers by enhancing sleep quality. We'll monitor for consistency over the next week.",feedback
+1,2025-09-25,Rohan,"Need help - client wants to meet at a steakhouse tonight. How do I navigate this with my ApoB goals?",feedback
+1,2025-09-25,Carla (Elyx Nutrition),"Smart to plan ahead! Strategy: 1. Start with olive oil & vinegar salad 2. Choose lean cuts like filet 3. Double vegetables instead of starch 4. Red wine instead of cocktail 5. Share dessert. This balances social and health priorities.",feedback
+1,2025-09-28,Rohan,"Just landed back in SG. The travel protocol helped but I'm exhausted. What's the recovery plan?",feedback
+1,2025-09-28,Advik (Elyx Performance),"Welcome back! Today's protocol: 1. 30min outdoor walk in sunlight 2. Hydrate with electrolytes 3. Light dinner before 7PM 4. Extra 30min sleep opportunity. We'll check your Whoop recovery tomorrow before resuming training.",feedback
+1,2025-10-01,Ruby (Elyx Concierge),"Good morning Rohan! October marks your first full month with interventions. Today's priorities: 1. Start strength program with Rachel (video call at 4PM) 2. Begin sleep position training 3. New supplement regimen arrives today. Let us know if you have questions!",feedback
+1,2025-10-01,Rohan,"Completed first strength session. The app was easy to follow but I feel completely drained.",feedback
+1,2025-10-01,Rachel (Elyx PT),"That's normal! Your body isn't used to this stimulus. Tomorrow will be active recovery - just a 20min walk. The fatigue should improve within 2-3 sessions as you adapt.",feedback
+1,2025-10-03,Rohan,"Whoop shows terrible recovery (23%) after strength training. Should I skip today's session?",feedback
+1,2025-10-03,Advik (Elyx Performance),"Yes, let's modify. Just do your mobility routine today. This feedback is valuable - we may need to adjust your training volume. Your body is telling us this was too much too soon.",feedback
+1,2025-10-05,Rohan,"My legs are so sore I can barely walk. This is affecting my work.",feedback
+1,2025-10-05,Rachel (Elyx PT),"This is extreme DOMS. Let's implement our recovery protocol: 1. Contrast shower (hot/cold) on legs 2. 20min very slow walk 3. Extra 20g protein today. We'll reduce your next session volume by 30%.",feedback
+1,2025-10-10,Rohan,"Third strength session done. Much better! Soreness is manageable and Whoop recovery is 65%.",feedback
+1,2025-10-10,Rachel (Elyx PT),"Excellent adaptation! This shows your body is responding well to the adjusted program. Next week we'll add 1 set per exercise while maintaining this recovery profile.",feedback
+1,2025-10-15,Rohan,"CGM shows my morning glucose is much more stable with the high-protein breakfasts. But I miss my oatmeal - any way to make it work?",feedback
+1,2025-10-15,Carla (Elyx Nutrition),"Absolutely! Let's try this tomorrow: 1. 1/2 cup oats (soaked overnight) 2. Add 1 scoop protein powder 3. 1 tbsp almond butter 4. Handful of berries. The protein/fat/fiber should blunt the spike. We'll monitor the CGM response.",feedback
+1,2025-10-18,Rohan,"Emergency - last minute trip to London tomorrow. Need the travel protocol ASAP.",feedback
+1,2025-10-18,Ruby (Elyx Concierge),"On it! Sending you the Westbound Travel Protocol within the hour. Key elements: 1. Light exposure schedule 2. In-flight movement plan 3. Hotel gym recommendations 4. Emergency clinic contacts.",feedback
+1,2025-10-20,Rohan,"Landed in London. Followed the light protocol - feel decent despite the flight. The in-flight mobility routine helped my back.",feedback
+1,2025-10-20,Advik (Elyx Performance),"Great to hear! Your Whoop data shows better HRV than previous trips. Stick to the schedule today - especially the 10AM outdoor walk, even if it's cloudy.",feedback
+1,2025-10-25,Rohan,"Client dinner at a pub tonight. How do I handle this?",feedback
+1,2025-10-25,Carla (Elyx Nutrition),"Pub strategy: 1. Start with sparkling water + lime 2. Roasted nuts instead of chips 3. Grilled fish or steak with double veg 4. Dark beer instead of lager (lower glycemic) 5. Walk back to hotel. Enjoy while staying on track!",feedback
+1,2025-10-28,Rohan,"Back in SG. This was my best business trip yet energy-wise. The protocols made a huge difference.",feedback
+1,2025-10-28,Neel (Elyx Concierge Lead),"This is exactly what we want to hear, Rohan! The data confirms it too - your average recovery score was 22% higher than your September trip. This shows the interventions are working.",feedback
+1,2025-11-01,Ruby (Elyx Concierge),"Good morning Rohan! November marks your first progress assessments: 1. Repeat ApoB test tomorrow (fasting) 2. DEXA rescan on Nov 15 3. Sleep study review with Dr. Warren Nov 20. Let us know if you have any concerns!",feedback
+1,2025-11-02,Rohan,"Blood draw done. Curious to see if the ApoB has moved.",feedback
+1,2025-11-02,Ruby (Elyx Concierge),"Results should be ready by Friday. Regardless of the number, remember biomarkers can lag behind behavioral changes. We're playing the long game here.",feedback
+1,2025-11-05,Dr. Warren (Elyx Medical),"Rohan, your ApoB is down to 98 mg/dL - an 11% reduction in just 6 weeks! This is an excellent response to the dietary and exercise changes. Let's maintain this trajectory.",feedback
+1,2025-11-05,Rohan,"That's encouraging. What's driving this improvement?",feedback
+1,2025-11-05,Dr. Warren (Elyx Medical),"Primary factors: 1. Increased soluble fiber from your new diet 2. Consistent Zone 2 training 3. Weight loss (2.3kg per DEXA) 4. Reduced processed foods. All working synergistically!",feedback
+1,2025-11-10,Rohan,"Whoop recovery is red (15%) today despite good sleep. What gives?",feedback
+1,2025-11-10,Advik (Elyx Performance),"I see you had 3 drinks at last night's networking event. Alcohol significantly suppresses HRV and increases resting HR, even with good sleep duration. This is valuable feedback about the 'cost' of alcohol for your physiology.",feedback
+1,2025-11-15,Rohan,"Just finished DEXA rescan. The technician said I've gained 1.2kg of muscle and lost 3.5kg fat! Body fat now 24%.",feedback
+1,2025-11-15,Rachel (Elyx PT),"Outstanding progress! This explains why your strength has improved so quickly. Your deadlift form videos show excellent technique progression too.",feedback
+1,2025-11-20,Dr. Warren (Elyx Medical),"Rohan, the sleep study shows your AHI is down to 4.1 with positional therapy - now in the normal range! The mouth tape and side sleeping are working. No need for CPAP at this time.",feedback
+1,2025-11-20,Rohan,"That's a relief. My energy has definitely improved.",feedback
+1,2025-11-25,Rohan,"Thanksgiving dinner with American clients tonight. How do I handle this?",feedback
+1,2025-11-25,Carla (Elyx Nutrition),"Holiday strategy: 1. Fast until dinner (if comfortable) 2. Fill half plate with vegetables first 3. Choose white meat over dark 4. Small portions of favorites 5. Focus on social connection. One meal won't derail your progress!",feedback
+1,2025-11-30,Neel (Elyx Concierge Lead),"Rohan, as we close November, I want to highlight your excellent progress: 1. ApoB down 11% 2. Muscle mass up 5% 3. Sleep quality improved 27% 4. VO2 max up 8%. You're building a strong foundation for long-term health!",feedback
+1,2025-12-02,Rohan,"Office holiday party tonight. How do I handle the open bar?",feedback
+1,2025-12-02,Carla (Elyx Nutrition),"Alcohol strategy: 1. Eat a protein-rich meal first 2. Alternate each drink with water 3. Stick to clear spirits + soda 4. Set a 3-drink max 5. Schedule tomorrow as recovery.",feedback
+1,2025-12-05,Rohan,"Woke up with a headache after last night. Hangover protocol?",feedback
+1,2025-12-05,Advik (Elyx Performance),"Holiday Recovery Kit: 1. Electrolyte mix now 2. 20min walk outside 3. Eggs + avocado breakfast 4. No training today. The walk will help more than lying in bed!",feedback
+1,2025-12-09,Rohan,"Family arrived early - my routine is completely disrupted. Help!",feedback
+1,2025-12-09,Ruby (Elyx Concierge),"Family Survival Protocol: 1. Short morning workouts (20min) 2. Involve family in walks 3. Meal prep basics in fridge 4. Protect sleep schedule. This is temporary - we'll reset in January.",feedback
+1,2025-12-12,Rohan,"Skipped workout yesterday - first miss in 3 months. Feeling guilty.",feedback
+1,2025-12-12,Rachel (Elyx PT),"One missed workout in 90 days is 99.9% consistency - outstanding! The body actually benefits from occasional unplanned rest. Back on track today.",feedback
+1,2025-12-15,Rohan,"Holiday cookies everywhere at the office. How many can I 'safely' eat?",feedback
+1,2025-12-15,Carla (Elyx Nutrition),"The 80/20 rule applies: 1. Choose your 2 favorite kinds 2. Enjoy 1 of each slowly 3. Pair with protein (like nuts) 4. Savor without guilt. Then return to normal eating.",feedback
+1,2025-12-18,Rohan,"Complete dietary fail today - ate everything at the buffet. Regretting it now.",feedback
+1,2025-12-18,Neel (Elyx Concierge Lead),"This is normal human behavior during the holidays! No moral judgment about food. Tomorrow is a fresh start - we've scheduled a high-protein day to reset.",feedback
+1,2025-12-22,Rohan,"Traveling to see in-laws. Their house has no gym - what should I do?",feedback
+1,2025-12-22,Rachel (Elyx PT),"No-equipment routine: 1. Push-up variations 2. Chair squats 3. Towel rows 4. Plank variations. I've sent a video demo. Just 20min/day maintains gains.",feedback
+1,2025-12-25,Rohan,"Christmas lunch starting soon. Any last-minute tips?",feedback
+1,2025-12-25,Carla (Elyx Nutrition),"Holiday Meal Strategy: 1. Fill half plate with veggies first 2. Choose 1 indulgent item you truly love 3. Eat slowly 4. Enjoy the company more than the food. Merry Christmas!",feedback
+1,2025-12-28,Rohan,"Scale shows 3kg up from pre-holidays. How much is real?",feedback
+1,2025-12-28,Advik (Elyx Performance),"Mostly water/glycogen weight. Expect 1-1.5kg real gain. Our January protocol will have you back on track within 2 weeks. No drastic measures needed.",feedback
+1,2025-12-31,Rohan,"NYE plans changed - now at a nightclub. How to handle late night?",feedback
+1,2025-12-31,Advik (Elyx Performance),"Nightclub Survival: 1. Hydrate between drinks 2. Wear earplugs to protect hearing 3. Take next day completely off 4. Don't stress - it's one night! Happy New Year!",feedback
+1,2026-01-03,Rohan,"Back from Bali – 5kg heavier. How bad is the damage?",feedback
+1,2026-01-03,Advik (Elyx Performance),"Initial scan shows mostly water retention (Na+ intake spiked 300%). Protocol: 1. 48hr electrolyte reset (K+/Mg++ focus) 2. DEXA on Jan 5 for true fat/muscle change 3. Liver detox support (NAC + milk thistle). Your ALT was borderline last time – we’ll retest.",feedback
+1,2026-01-05,Rohan,"DEXA results shocking – only 0.8kg actual fat gain?",feedback
+1,2026-01-05,Rachel (Elyx PT),"Exactly! The scale lied. You actually gained 1.2kg muscle from all that surfing. New program focuses on: 1. Glycogen depletion workouts (to shed water) 2. Beta-glucans to bind holiday dietary toxins 3. Omega-3 repletion (your index dropped to 6.1%).",feedback
+1,2026-01-12,Rohan,"My genetic report says 'MTHFR mutation' – should I worry?",feedback
+1,2026-01-12,Dr. Warren (Elyx Medical),"Heterozygous C677T means you process folate 40% slower. Action plan: 1. Switch to methylfolate supplements 2. Avoid folic acid fortification 3. Monitor homocysteine (your level: 9.2 µmol/L). This explains your sluggish detox post-alcohol.",feedback

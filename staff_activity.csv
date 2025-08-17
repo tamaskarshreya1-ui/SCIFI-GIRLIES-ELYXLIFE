@@ -1,0 +1,72 @@
+staff_name,role,date,activity_type,duration_minutes,member_id
+Ruby (Elyx Concierge),Concierge,2025-09-01,member_onboarding,15,Rohan
+Ruby (Elyx Concierge),Concierge,2025-09-01,member_onboarding,15,Rohan
+Ruby (Elyx Concierge),Concierge,2025-09-01,member_onboarding,15,Rohan
+Ruby (Elyx Concierge),Concierge,2025-09-01,member_onboarding,15,Rohan
+Advik (Elyx Performance),Performance,2025-09-03,diagnostic_review,60,Rohan
+Ruby (Elyx Concierge),Concierge,2025-09-05,diagnostic_coordination,30,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-09-07,nutrition_consult,15,Rohan
+Rachel (Elyx PT),Physical Therapy,2025-09-15,pt_consult,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2025-09-19,medical_review,30,Rohan
+Ruby (Elyx Concierge),Concierge,2025-09-20,intervention_coordination,10,Rohan
+Advik (Elyx Performance),Performance,2025-09-22,intervention_review,10,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-09-25,nutrition_consult,15,Rohan
+Advik (Elyx Performance),Performance,2025-09-28,recovery_planning,20,Rohan
+Rachel (Elyx PT),Physical Therapy,2025-10-01,pt_session,45,Rohan
+Advik (Elyx Performance),Performance,2025-10-03,recovery_planning,20,Rohan
+Rachel (Elyx PT),Physical Therapy,2025-10-05,recovery_planning,30,Rohan
+Rachel (Elyx PT),Physical Therapy,2025-10-10,pt_session,45,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-10-15,nutrition_consult,15,Rohan
+Ruby (Elyx Concierge),Concierge,2025-10-18,travel_planning,20,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-10-25,nutrition_consult,15,Rohan
+Ruby (Elyx Concierge),Concierge,2025-11-01,diagnostic_coordination,15,Rohan
+Dr. Warren (Elyx Medical),Medical,2025-11-05,medical_review,20,Rohan
+Rachel (Elyx PT),Physical Therapy,2025-11-15,diagnostic_review,30,Rohan
+Dr. Warren (Elyx Medical),Medical,2025-11-20,medical_review,20,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-11-25,nutrition_consult,15,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-12-02,nutrition_consult,15,Rohan
+Advik (Elyx Performance),Performance,2025-12-05,recovery_planning,20,Rohan
+Ruby (Elyx Concierge),Concierge,2025-12-09,lifestyle_planning,20,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-12-15,nutrition_consult,10,Rohan
+Neel (Elyx Concierge Lead),Concierge,2025-12-18,recovery_planning,15,Rohan
+Rachel (Elyx PT),Physical Therapy,2025-12-22,exercise_planning,20,Rohan
+Carla (Elyx Nutrition),Nutrition,2025-12-25,nutrition_consult,10,Rohan
+Advik (Elyx Performance),Performance,2025-12-28,medical_review,15,Rohan
+Advik (Elyx Performance),Performance,2025-12-31,lifestyle_planning,10,Rohan
+Advik (Elyx Performance),Performance,2026-01-03,recovery_planning,20,Rohan
+Rachel (Elyx PT),Physical Therapy,2026-01-05,diagnostic_review,30,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-01-12,medical_review,20,Rohan
+Advik (Elyx Performance),Performance,2026-01-15,diagnostic_review,30,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-01-20,medical_review,30,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-01-22,medical_review,20,Rohan
+Rachel (Elyx PT),Physical Therapy,2026-01-28,recovery_planning,20,Rohan
+Carla (Elyx Nutrition),Nutrition,2026-01-30,medical_review,15,Rohan
+Ruby (Elyx Concierge),Concierge,2026-02-01,diagnostic_coordination,15,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-02-02,medical_review,20,Rohan
+Carla (Elyx Nutrition),Nutrition,2026-02-04,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-02-08,medical_review,20,Rohan
+Advik (Elyx Performance),Performance,2026-02-10,exercise_planning,20,Rohan
+Dr. Evans (Elyx Medical),Medical,2026-02-12,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-02-15,medical_review,20,Rohan
+Advik (Elyx Performance),Performance,2026-02-17,medical_review,15,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-02-19,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-02-22,medical_review,20,Rohan
+Advik (Elyx Performance),Performance,2026-02-25,exercise_planning,20,Rohan
+Ruby (Elyx Concierge),Concierge,2026-03-02,diagnostic_coordination,15,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-03-03,medical_review,20,Rohan
+Dr. Evans (Elyx Medical),Medical,2026-03-05,medical_review,20,Rohan
+Advik (Elyx Performance),Performance,2026-03-09,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-03-11,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-03-16,medical_review,20,Rohan
+Advik (Elyx Performance),Performance,2026-03-18,medical_review,15,Rohan
+Neel (Elyx Concierge Lead),Concierge,2026-03-22,diagnostic_review,20,Rohan
+Carla (Elyx Nutrition),Nutrition,2026-03-25,medical_review,15,Rohan
+Ruby (Elyx Concierge),Concierge,2026-04-01,family_onboarding,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-04-02,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-04-05,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-04-09,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-04-12,medical_review,20,Rohan
+Dr. Evans (Elyx Medical),Medical,2026-04-16,medical_review,20,Rohan
+Dr. Evans (Elyx Medical),Medical,2026-04-18,medical_review,20,Rohan
+Dr. Warren (Elyx Medical),Medical,2026-04-23,medical_review,20,Rohan
+Neel (Elyx Concierge Lead),Concierge,2026-04-28,progress_review,20,Rohan

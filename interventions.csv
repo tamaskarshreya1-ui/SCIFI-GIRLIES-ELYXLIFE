@@ -1,0 +1,51 @@
+member_id,date,type,category,description,reason,outcome,staff_member,duration_minutes
+1,2025-09-01,diagnostic,onboarding,"Advanced lipid panel (including ApoB)","Elevated LDL cholesterol","Scheduled for Sep 5",Ruby,15
+1,2025-09-01,diagnostic,onboarding,"DEXA scan for body composition","Baseline body composition analysis","Scheduled for Sep 3",Ruby,15
+1,2025-09-01,diagnostic,onboarding,"VO2 max test","Assess cardiovascular fitness","Scheduled for Sep 3",Ruby,15
+1,2025-09-01,diagnostic,onboarding,"Continuous glucose monitor (CGM) for 14 days","Monitor glucose responses","Scheduled for Sep 5",Ruby,15
+1,2025-09-03,diagnostic,onboarding,"DEXA & VO2 max","Establish baseline metrics","Completed - Body fat 28%, VO2 max 32 ml/kg/min",Advik,60
+1,2025-09-05,diagnostic,onboarding,"Blood draw & CGM application","Comprehensive bloodwork and glucose monitoring","Completed - CGM data available in app",Ruby,30
+1,2025-09-07,nutrition,feedback,"Avocado toast experiment","Assess glucose response","Glucose spiked to 180 mg/dL - needs adjustment",Carla,15
+1,2025-09-15,physical therapy,feedback,"Child's pose and cat-cow stretches","Relieve back pain from flight","50% improvement - additional recommendations given",Rachel,20
+1,2025-09-19,medical,feedback,"Diagnostic review with Dr. Warren","Evaluate test results","Key findings: Elevated ApoB, mild sleep apnea, low Vitamin D",Dr. Warren,30
+1,2025-09-20,medical,feedback,"Sleep optimization kit","Address mild sleep apnea","Kit sent with mouth tape and positional therapy instructions",Ruby,10
+1,2025-09-22,medical,feedback,"Mouth taping trial","Improve sleep quality","HRV improved from 28 to 42 - successful",Advik,10
+1,2025-09-25,nutrition,feedback,"Steakhouse dining strategy","Navigate social dining with ApoB goals","Plan created to balance health and social priorities",Carla,15
+1,2025-09-28,recovery,feedback,"Post-travel recovery protocol","Combat travel fatigue","Protocol implemented: walk, hydration, light dinner, extra sleep",Advik,20
+1,2025-10-01,exercise,feedback,"First strength training session","Begin strength program","Completed - extreme fatigue noted",Rachel,45
+1,2025-10-03,exercise,feedback,"Modified mobility routine","Address poor recovery (23%)","Session skipped - mobility only",Advik,20
+1,2025-10-05,recovery,feedback,"DOMS recovery protocol","Address extreme muscle soreness","Contrast shower, slow walk, extra protein - volume reduced 30%",Rachel,30
+1,2025-10-10,exercise,feedback,"Third strength session","Continue strength program","Improved - soreness manageable, recovery 65%",Rachel,45
+1,2025-10-15,nutrition,feedback,"Oatmeal experiment","Reintroduce oatmeal with stable glucose","Modified recipe with protein powder and almond butter",Carla,15
+1,2025-10-18,travel,feedback,"Westbound travel protocol","Prepare for last-minute London trip","Protocol sent with light, movement, and clinic details",Ruby,20
+1,2025-10-25,nutrition,feedback,"Pub dining strategy","Navigate social dining with health goals","Plan created for optimal choices",Carla,15
+1,2025-11-02,diagnostic,feedback,"Repeat ApoB test","Monitor progress","Completed - results pending",Ruby,15
+1,2025-11-05,medical,feedback,"ApoB results review","Assess intervention effectiveness","ApoB down 11% to 98 mg/dL - excellent progress",Dr. Warren,20
+1,2025-11-15,diagnostic,feedback,"DEXA rescan","Assess body composition changes","Gained 1.2kg muscle, lost 3.5kg fat - body fat now 24%",Rachel,30
+1,2025-11-20,medical,feedback,"Sleep study review","Evaluate sleep apnea improvement","AHI down to 4.1 - no CPAP needed",Dr. Warren,20
+1,2025-11-25,nutrition,feedback,"Thanksgiving dining strategy","Navigate holiday meal","Plan created for balance and enjoyment",Carla,15
+1,2025-12-02,nutrition,feedback,"Office party alcohol strategy","Manage open bar","Plan created for moderation and recovery",Carla,15
+1,2025-12-05,recovery,feedback,"Hangover recovery protocol","Address post-party effects","Electrolytes, walk, high-protein breakfast - no training",Advik,20
+1,2025-12-09,lifestyle,feedback,"Family survival protocol","Maintain routine with family","Short workouts, family walks, meal prep, protected sleep",Ruby,20
+1,2025-12-15,nutrition,feedback,"Holiday cookie strategy","Manage treats","80/20 rule applied - enjoy favorites mindfully",Carla,10
+1,2025-12-18,nutrition,feedback,"Diet reset protocol","Recover from buffet overindulgence","High-protein day scheduled",Neel,15
+1,2025-12-22,exercise,feedback,"No-equipment routine","Maintain fitness during travel","Push-ups, chair squats, towel rows, planks",Rachel,20
+1,2025-12-25,nutrition,feedback,"Christmas meal strategy","Navigate holiday lunch","Fill half plate with veggies, choose one indulgent item",Carla,10
+1,2025-12-28,medical,feedback,"Post-holiday weight assessment","Evaluate real vs. water weight","Mostly water/glycogen - 1-1.5kg real gain",Advik,15
+1,2025-12-31,lifestyle,feedback,"Nightclub survival tips","Manage late-night outing","Hydration, earplugs, next day off",Advik,10
+1,2026-01-03,recovery,feedback,"Post-Bali recovery protocol","Address weight gain","Electrolyte reset, DEXA, liver support",Advik,20
+1,2026-01-05,diagnostic,feedback,"Post-holiday DEXA","Assess true body composition","Only 0.8kg fat gain, 1.2kg muscle gain from surfing",Rachel,30
+1,2026-01-12,medical,feedback,"MTHFR mutation management","Address genetic finding","Switch to methylfolate, avoid folic acid, monitor homocysteine",Dr. Warren,20
+1,2026-01-15,diagnostic,feedback,"TruAge testing","Assess biological age","Chronological age 46, biological age 49 - focus on mitochondrial support",Advik,30
+1,2026-01-20,diagnostic,feedback,"Corus CAD test","Assess cardiac risk","Plaque stability 8/40, ischemia likelihood 3% - continue current protocol",Dr. Warren,30
+1,2026-01-22,medical,feedback,"LP(a) management","Address genetic high risk","Niacin, PCSK9 inhibitors, bi-annual tracking",Dr. Warren,20
+1,2026-01-28,exercise,feedback,"Post-PR recovery","Address elevated CK (1,200 U/L)","72hr training pause, tart cherry extract, hydration",Rachel,20
+1,2026-01-30,medical,feedback,"Dawn phenomenon management","Address morning glucose spikes","Casein protein, morning sunlight, berberine at 10PM",Carla,15
+1,2026-02-01,diagnostic,feedback,"GI Map stool test","Assess gut health","Test scheduled - tracking H. pylori",Ruby,15
+1,2026-02-02,medical,feedback,"H. pylori treatment","Address high virulence strain","Mastic gum, lactoferrin, retest in 6 weeks",Dr. Warren,20
+1,2026-02-04,medical,feedback,"Gluten-free protocol","Address leaky gut","Strict gluten-free, colostrum, L-glutamine - retest zonulin in April",Carla,20
+1,2026-02-08,medical,feedback,"Testosterone optimization","Address low free testosterone","Reduce cardio, increase fats, improve sleep - add Borax and Tongkat Ali",Dr. Warren,20
+1,2026-02-10,exercise,feedback,"Natural GH boost","Address plateau","Deep sleep optimization, glycine/GABA, sprint intervals",Advik,20
+1,2026-02-12,medical,feedback,"Adrenal fatigue protocol","Address flat cortisol curve","Adaptogens, circadian fasting, phosphatidylserine",Dr. Evans,20
+1,2026-02-15,medical,feedback,"Endothelial function improvement","Address EndoPAT score 1.4","Beetroot juice, contrast showers, dark chocolate",Dr. Warren,20
+1,2026-02-17,medical,feedback,"Beetroot juice adjustment","Address HRV crash","Reduce dose, add vitamin C, monitor BP",Advik,15
